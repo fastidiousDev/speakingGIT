@@ -1,3 +1,5 @@
 New file added by Host
 Some things added to host file
 Leremo Doloremmo tredo fredi bastione firts
+283.102.12.11 database address for the component
+283.123.74.1 DNS address for the component
